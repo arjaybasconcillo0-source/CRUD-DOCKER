@@ -56,7 +56,7 @@ jobs:
         shell: powershell
 
       - name: Start updated container
-        run: docker run -d --name ionic-crud --restart unless-stopped -p 8100:8100 ionic-crud:latest
+        run: docker run -d --name ionic-crud --restart unless-stopped -p 8100:5173 ionic-crud:latest
         shell: powershell
 
       - name: Verify application
