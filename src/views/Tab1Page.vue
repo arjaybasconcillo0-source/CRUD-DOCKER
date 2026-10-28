@@ -3,7 +3,7 @@
   <ion-page>
     <ion-header>
       <ion-toolbar color="dark">
-        <ion-title>DRIVE — My Garage</ion-title>
+        <ion-title>DRIVE — My Garage arjay</ion-title>
       </ion-toolbar>
     </ion-header>
 
