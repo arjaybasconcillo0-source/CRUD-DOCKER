@@ -8,7 +8,7 @@
     </ion-header>
 
     <ion-content class="ion-padding">
-      <h1>My Garage xxx</h1>
+      <h1>My Garage xbwewew</h1>
       <p>Manage your car collection.</p>
 
       <ion-text v-if="errorMessage" color="danger">
